@@ -1,5 +1,5 @@
 # Deploy a Python Flask app using the Azure CLI (http://aka.ms/cli) 
-This readme describes how to deploy the app in this repository to Azure. To try this at home, goto http://shell.azure.com and run the commands in the following sections. You can also run this locally from Azure CLI (http://aka.ms/cli) and make changes locally using [VSCode](http://aka.ms/vscode) -  
+Go to http://shell.azure.com and run the commands in the following sections (Or run this locally from Azure CLI (http://aka.ms/cli) and make changes locally using [VSCode](http://aka.ms/vscode) -  
 # Deploy the app using [az webapp up](http://aka.ms/azwebappup)  
     $ git clone <TODO> myPythonapp
     $ cd myPythonapp
