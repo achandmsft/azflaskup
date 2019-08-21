@@ -2,7 +2,8 @@
 Go to http://shell.azure.com and run the following (Or run locally using the [Azure CLI](http://aka.ms/cli)) -  
 
 # Deploy the app   
-The name for your app must be globally unique as it will prefix the website address: http://yourapp.azurewebsites.net/     
+The name for your app must be globally unique as it will prefix the website address: http://yourapp.azurewebsites.net/
+
     $ git clone https://github.com/achandmsft/azflaskup
     $ cd azflaskup
     $ az webapp up --name <enter a globally unique name for your app> --location centralus
